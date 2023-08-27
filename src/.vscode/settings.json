@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "smart_calc_controller.h": "c",
-        "math.h": "c"
-    }
-}
